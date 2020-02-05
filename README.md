@@ -40,7 +40,7 @@
 
 为实现图书管理系统各功能，设计一个含有多个菜单的程序以控制各项子功能。
 
-![界面]()
+![界面](https://github.com/0759LW/Book-management-system-based-on-C-language-/blob/master/%E7%95%8C%E9%9D%A2.png)
 
 2.存储结构设计
 
